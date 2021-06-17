@@ -6,6 +6,7 @@ The data processing relies on ESA toolbox [SNAP](https://step.esa.int/main/downl
 
 ## Data processing
 The data processing relies on SNAP. The following flowchart demonstrates the data processing scheme.
+
 ![](https://github.com/Jingliang-Hu/Feature-Extraction-and-Selection-of-Sentinel-1/blob/main/feat_extraction_pipeline/pictures/processing_workflow.JPG | width=400)
 
 
