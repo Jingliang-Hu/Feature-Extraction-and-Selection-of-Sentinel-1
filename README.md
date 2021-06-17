@@ -31,6 +31,7 @@ One can utilize SNAP graph processing tool to realize batch processing. One of o
 
 ### GLCM
 We apply SNAP toolbox to extract GLCM features
+
 <img src="https://github.com/Jingliang-Hu/Feature-Extraction-and-Selection-of-Sentinel-1/blob/main/feat_extraction_pipeline/pictures/snap_glcm_1.JPG" width="600">
 <img src="https://github.com/Jingliang-Hu/Feature-Extraction-and-Selection-of-Sentinel-1/blob/main/feat_extraction_pipeline/pictures/snap_glcm_2.JPG" width="600">
 
