@@ -1,5 +1,20 @@
 # Feature-Extraction-and-Selection-of-Sentinel-1
-This repo contains codes and methods used in "Feature Extraction and Selection of Sentinel-1 Dual-Pol Data for Global-Scale Local Climate Zone Classification". Due to the size of data is too large, this repo works with one city for an example.
+This repo contains codes and methods used in "Feature Extraction and Selection of Sentinel-1 Dual-Pol Data for Global-Scale Local Climate Zone Classification". 
+> Jingliang Hu, Pedram Ghamisi, Xiao Zhu (2018). Feature Extraction and Selection of Sentinel-1 Dual-Pol Data for Global-Scale Local Climate Zone Classification. ISPRS International Journal of Geo-Information, 7(9), pp. 379.
+> 
+'''bibtex
+@article{hu2018feature,
+  title={Feature extraction and selection of sentinel-1 dual-pol data for global-scale local climate zone classification},
+  author={Hu, Jingliang and Ghamisi, Pedram and Zhu, Xiao Xiang},
+  journal={ISPRS International Journal of Geo-Information},
+  volume={7},
+  number={9},
+  pages={379},
+  year={2018},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+'''
+Due to the size of data is too large, this repo works with one city for an example.
 
 ## Softwares
 The data processing relies on ESA toolbox [SNAP](https://step.esa.int/main/download/snap-download/). Experiments uses Matlab
