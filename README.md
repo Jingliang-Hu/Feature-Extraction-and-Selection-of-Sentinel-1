@@ -19,7 +19,7 @@ Due to the size of data is too large, this repo works with one city for an examp
 ## Softwares
 The data processing relies on ESA toolbox [SNAP](https://step.esa.int/main/download/snap-download/). Experiments uses Matlab
 
-## Data processing
+## 1. Data processing
 The data processing relies on SNAP. The following flowchart demonstrates the data processing scheme.
 ![workflow](https://github.com/Jingliang-Hu/Feature-Extraction-and-Selection-of-Sentinel-1/blob/main/feat_extraction_pipeline/pictures/processing_workflow.JPG)
 <!---
@@ -39,18 +39,18 @@ Data processing workflow in practice, step by step with SNAP
 
 One can utilize SNAP graph processing tool to realize batch processing. One of our solution is [here](https://github.com/zhu-xlab/So2Sat-LCZ-Classification-Demo/tree/master/Modules/2_preprocessing). 
 
-## Feature extraction
-### Polarimetric features
+## 2. Feature extraction
+### 2.1 Polarimetric features
 
-### Statistical features
+### 2.2 Statistical features
 
-### GLCM
+### 2.3 GLCM
 We apply SNAP toolbox to extract GLCM features
 
 <img src="https://github.com/Jingliang-Hu/Feature-Extraction-and-Selection-of-Sentinel-1/blob/main/feat_extraction_pipeline/pictures/snap_glcm_1.JPG" width="600">
 <img src="https://github.com/Jingliang-Hu/Feature-Extraction-and-Selection-of-Sentinel-1/blob/main/feat_extraction_pipeline/pictures/snap_glcm_2.JPG" width="600">
 
-### Morphological profile
+### 2.4 Morphological profile
 
-## Classification with Canonical Correlation Forests
+## 3. Classification with Canonical Correlation Forests
 
