@@ -29,11 +29,14 @@ The data processing relies on SNAP. The following flowchart demonstrates the dat
 Data processing workflow in practice, step by step with SNAP
 > Step 1: Start SNAP and graph builder
 <img src="https://github.com/Jingliang-Hu/Feature-Extraction-and-Selection-of-Sentinel-1/blob/main/feat_extraction_pipeline/pictures/processing_1.JPG" width="600">
+
 > Step 2: Load GPT graph
 <img src="https://github.com/Jingliang-Hu/Feature-Extraction-and-Selection-of-Sentinel-1/blob/main/feat_extraction_pipeline/pictures/processing_2.JPG" width="600">
 <img src="https://github.com/Jingliang-Hu/Feature-Extraction-and-Selection-of-Sentinel-1/blob/main/feat_extraction_pipeline/pictures/processing_3.JPG" width="600">
+
 > Step 3: Browse the marked tabs to modify input, output, and parameters if necessary; Then start RUN
 <img src="https://github.com/Jingliang-Hu/Feature-Extraction-and-Selection-of-Sentinel-1/blob/main/feat_extraction_pipeline/pictures/processing_4.JPG" width="600">
+
 > Step 4: Finished the data processing workflow. The following image is the processed S1 data of Munich.
 <img src="https://github.com/Jingliang-Hu/Feature-Extraction-and-Selection-of-Sentinel-1/blob/main/feat_extraction_pipeline/pictures/processing_5.JPG" width="600">
 
