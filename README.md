@@ -43,17 +43,15 @@ Data processing workflow in practice, step by step with SNAP
 One can utilize SNAP graph processing tool to realize batch processing. One of our solution is [here](https://github.com/zhu-xlab/So2Sat-LCZ-Classification-Demo/tree/master/Modules/2_preprocessing). 
 
 ## 2. Feature extraction
-### 2.1 Polarimetric features
-
-### 2.2 Statistical features
-
-### 2.3 GLCM
+### 2.1 GLCM
 We apply SNAP toolbox to extract GLCM features
 
 <img src="https://github.com/Jingliang-Hu/Feature-Extraction-and-Selection-of-Sentinel-1/blob/main/feat_extraction_pipeline/pictures/snap_glcm_1.JPG" width="600">
 <img src="https://github.com/Jingliang-Hu/Feature-Extraction-and-Selection-of-Sentinel-1/blob/main/feat_extraction_pipeline/pictures/snap_glcm_2.JPG" width="600">
 
-### 2.4 Morphological profile
+### 2.2 Other features
+In 'example_feature_extraction_classification.m', lines 9 to 16 extracts the other features, polarimetric features, local statistic features, and morphological profile
 
 ## 3. Classification with Canonical Correlation Forests
+In 'example_feature_extraction_classification.m', lines 23 to 47 is the classification.
 
